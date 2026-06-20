@@ -60,6 +60,10 @@ Most tools in this directory are privacy-friendly, no-signup utilities that run 
 
 [Free Video Compressor](https://freevideocompressor.app) compresses MP4 and other video files locally in the browser, with no upload, no signup, and no watermark.
 
+### ImagineClip
+
+[ImagineClip](https://imagineclip.com) is a free-start AI video generator for avatar clips, stylized scenes, and shareable social videos from prompts, images, and effects.
+
 ### Free Tattoo
 
 [Free Tattoo](https://freetattoo.app) helps people explore AI-assisted tattoo ideas, prompt presets, style directions, placement concepts, and stencil-friendly inspiration.
@@ -82,4 +86,3 @@ Most tools in this directory are privacy-friendly, no-signup utilities that run 
 - Need SEO or AI workflow help: start with AI SEO Hub, Prompt Library, Flow Templates, or MinutesAI.
 - Need developer documentation visuals: start with Diagramgen.
 - Need creative assets: start with Free Mockup, Niche Logo, Free Tattoo, Free Room Redesign, or Free Headshot.
-
