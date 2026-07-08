@@ -22,6 +22,10 @@ Most tools in this directory are privacy-friendly, no-signup utilities that run 
 
 [Free Contract Maker](https://freecontractmaker.app) helps small businesses and freelancers draft common agreements through guided questions and export editable Word or PDF documents.
 
+### Concrete Calculator Hub
+
+[Concrete Calculator Hub](https://concreteestimatorhub.com) provides free concrete calculators and bag coverage charts for homeowners, DIY builders, and contractors planning slabs, footings, post holes, shed bases, and ready-mix quantities.
+
 ## AI, SEO, And Productivity
 
 ### AI SEO Hub
@@ -82,4 +86,3 @@ Most tools in this directory are privacy-friendly, no-signup utilities that run 
 - Need SEO or AI workflow help: start with AI SEO Hub, Prompt Library, Flow Templates, or MinutesAI.
 - Need developer documentation visuals: start with Diagramgen.
 - Need creative assets: start with Free Mockup, Niche Logo, Free Tattoo, Free Room Redesign, or Free Headshot.
-
