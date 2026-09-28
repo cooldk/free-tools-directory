@@ -22,6 +22,10 @@ Most tools in this directory are privacy-friendly, no-signup utilities that run 
 
 [Free Contract Maker](https://freecontractmaker.app) helps small businesses and freelancers draft common agreements through guided questions and export editable Word or PDF documents.
 
+### Plainrow: match two CSV files by SKU
+
+[Plainrow](https://fromtill.com/plainrow/): Match two CSV files by SKU or email, like warehouse stock onto a product catalog. For VAs and bookkeepers who can't upload client files. Lite free (stack/dedupe). Kitchen $19 does the match.
+
 ## AI, SEO, And Productivity
 
 ### AI SEO Hub
@@ -79,6 +83,7 @@ Most tools in this directory are privacy-friendly, no-signup utilities that run 
 ## Suggested Starting Points
 
 - Need a business document: start with Business Template Hub, Invoice PDF, or Free Contract Maker.
+- Need to match two CSV files by SKU without uploading: start with Plainrow.
 - Need SEO or AI workflow help: start with AI SEO Hub, Prompt Library, Flow Templates, or MinutesAI.
 - Need developer documentation visuals: start with Diagramgen.
 - Need creative assets: start with Free Mockup, Niche Logo, Free Tattoo, Free Room Redesign, or Free Headshot.
