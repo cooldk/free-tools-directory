@@ -22,6 +22,10 @@ Most tools in this directory are privacy-friendly, no-signup utilities that run 
 
 [Free Contract Maker](https://freecontractmaker.app) helps small businesses and freelancers draft common agreements through guided questions and export editable Word or PDF documents.
 
+### Content Planner (Italian, XLSX)
+
+[Content Planner](https://acquistarefollower.it/resources/it/content-planner.xlsx) is a free, no-signup Italian worksheet with 30 blank slots for planning topics, formats, messages and evaluation. A separate illustrative example is labelled; it does not generate or publish content.
+
 ## AI, SEO, And Productivity
 
 ### AI SEO Hub
