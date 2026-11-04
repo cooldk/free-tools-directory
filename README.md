@@ -40,6 +40,10 @@ Most tools in this directory are privacy-friendly, no-signup utilities that run 
 
 [MinutesAI](https://getminutesai.com) turns pasted meeting, call, video, or webinar transcripts into structured summaries, decisions, and action items without adding a bot to calls.
 
+### Bucketlist.nl Netherlands Checklist (Dutch)
+
+[Bucketlist.nl Netherlands Checklist](https://bucketlist.nl/bucketlist-nederland/checklist) provides a free Dutch experience checklist with search and theme filters. Checkmarks stay in the same browser, and the list supports printing; optional experience bookings can have separate prices.
+
 ## Developer Tools
 
 ### Diagramgen
